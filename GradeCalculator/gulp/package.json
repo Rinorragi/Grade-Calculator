@@ -1,0 +1,20 @@
+{
+    "name": "App",
+    "version": "0.0.0",
+    "description": "",
+    "main": "gulpfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "gulp": "^3.9.0",
+        "gulp-bless": "^3.0.1",
+        "gulp-livereload": "^3.8.1",
+        "del": "^2.2.0",
+        "gulp-ruby-sass": "^2.0.6",
+        "run-sequence": "^1.1.5",
+        "colors":  "^1.1.2"
+    }
+}
